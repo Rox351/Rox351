@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  <div>
+
     
     ### Ola, me chamo Leonardo 👋
     
-    <text>Sinta-se a vontade para entrar em contato:</text>
+    <div>  <text>Sinta-se a vontade para entrar em contato:</text>
     <p></p></div>
  
  <a href="https://discord.gg/LeoRox351#6944" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
