@@ -1,8 +1,7 @@
 
 
 
-<p></p>
-<p></p>
+
 <div align="center">
   
   
@@ -20,9 +19,10 @@
 <div align="center">
   
        
-        
+ <p></p>
+<p></p> 
     
- Sinta-se a vontade para entrar em contato:
+ ### Sinta-se a vontade para entrar em contato:
   
 <div style="display: inline_block"><br>
       
