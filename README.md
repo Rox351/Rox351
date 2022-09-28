@@ -7,7 +7,7 @@
 
     
     ### Ola, me chamo Leonardo 👋
-  
+  </div>
   
     <div align="center">
      <a href="https://github.com/Rox351">
