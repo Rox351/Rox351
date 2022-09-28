@@ -14,6 +14,11 @@
 </div>
     
     
+<div align="center">
+  
+       
+        
+    
  Sinta-se a vontade para entrar em contato:
   
 <div style="display: inline_block"><br>
