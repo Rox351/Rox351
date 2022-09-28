@@ -6,9 +6,8 @@
     
     ### Ola, me chamo Leonardo 👋
     
-    <div>  <text>Sinta-se a vontade para entrar em contato:</text>
-    <p></p></div>
- 
+ Sinta-se a vontade para entrar em contato:
+  
 <div style="display: inline_block"><br>
       
    <div> 
