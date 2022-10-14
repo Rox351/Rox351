@@ -6,12 +6,11 @@
 
 <p>
   <em>
-  - 📚 Studying Front End Development in <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
     My name is Leonardo, <strong>I'm a Front-end developer</strong>
   </em>
 </p>
  
-
+  - 📚 Studying Front End Development in <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
 - 📫 My email: l.soares.2008@gmail.com
 
 <br>
