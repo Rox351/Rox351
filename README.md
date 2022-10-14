@@ -1,8 +1,8 @@
 
 
-<h1 align='center'> Welcome to my profile. </h1>
+<h1 align='center'> Bem Vindo ao Meu Perfil. </h1>
 <div align="center">
-### 👋 About me:
+### 👋 Sobre mim:
 
 <p>
   <em>
@@ -31,7 +31,7 @@
 
 <br>
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
 <div align="center">
   <p>
@@ -51,7 +51,7 @@
   
 <br>
 
-## 📈 Statistics
+## 📈 Statisticas
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rox351&show_icons=true&theme=merko&include_all_commits=true&count_private=true"></img>
 
