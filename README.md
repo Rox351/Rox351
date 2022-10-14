@@ -1,7 +1,7 @@
 
 
 <h1 align='center'> Bem Vindo ao Meu Perfil. </h1>
------------------
+
 <div align="center">
 ### 👋 Sobre mim:
 
@@ -14,7 +14,7 @@
 - 📚 Estudante Front End Development em <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
 
 <br>
------------------
+
 </div>
 <div align="center">
  
@@ -29,7 +29,7 @@
 </div>
 
  </div>
------------------
+
 <br>
 
 ## ⚡ Tecnologias
@@ -49,7 +49,7 @@
 
  <a/>
 
-  -----------------
+  
 <br>
 
 ## 📈 Statisticas
@@ -64,7 +64,7 @@
 
 
 
------------------
+
 <div> 
 
  
