@@ -1,24 +1,22 @@
 
 
 <h1 align='center'> Welcome to my profile. </h1>
-
+<div align="center">
 ### 👋 About me:
 
 <p>
   <em>
-    My name is Leonardo, <strong>I'm a Front-end developer</strong>
+    Meu nome é Leonardo, <strong>Eu sou um Desenvolvedor Front-end</strong>
   </em>
 </p>
- 
-  - 📚 Studying Front End Development in <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
-- 📫 My email: l.soares.2008@gmail.com
+
+- 📚 Studante Front End Development em <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
+
 <br>
 
 </div>
 <div align="center">
-  ##  Connect with me
-
-
+ 
  ### Sinta-se a vontade para entrar em contato:
   <div align="center">
 <div style="display: inline_block"><br>
