@@ -10,7 +10,7 @@
   </em>
 </p>
  
-  - 📚 Studying Front End Development in <a href="https://www.cursoemvideo.com/" target="_blank"> Curso Em Video </a>
+  - 📚 Studying Front End Development in <a href="https://www.cursoemvideo.com/"target="_blank"> Curso Em Video </a>
 - 📫 My email: l.soares.2008@gmail.com
 
 <br>
