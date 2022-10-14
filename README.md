@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    My name is Kauã, <strong>I'm a Front-end developer</strong>
+    My name is Leoanrdo, <strong>I'm a Front-end developer</strong>
   </em>
 </p>
  
@@ -38,7 +38,7 @@
  <a/><br><br>
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github"></img>
+  
 </div>
   
 <br>
@@ -55,7 +55,7 @@
 
 
  ### Sinta-se a vontade para entrar em contato:
-  
+  <div align="center">
 <div style="display: inline_block"><br>
       
    <div> 
