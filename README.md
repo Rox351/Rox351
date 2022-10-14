@@ -15,10 +15,6 @@
 
 <br>
 
-
-
-
-
 ## ⚡ Technologies
 
 <div align="center">
@@ -34,7 +30,7 @@
  
 
 
- <a/><br><br>
+ <a/>
 </div>
 <div align="center">
   
