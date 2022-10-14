@@ -12,6 +12,19 @@
  
   - 📚 Studying Front End Development in <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
 - 📫 My email: l.soares.2008@gmail.com
+<br>
+##  Connect with me
+
+
+ ### Sinta-se a vontade para entrar em contato:
+  <div align="center">
+<div style="display: inline_block"><br>
+      
+   <div> 
+    <a href = "https://wa.me/5551985208802"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_blank"></a> 
+     <a href="https://www.linkedin.com/in/lsoares2008/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "mailto:l.soares.2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 
 <br>
 
@@ -46,18 +59,7 @@
 
 
 
-##  Connect with me
 
-
- ### Sinta-se a vontade para entrar em contato:
-  <div align="center">
-<div style="display: inline_block"><br>
-      
-   <div> 
-    <a href = "https://wa.me/5551985208802"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_blank"></a> 
-     <a href="https://www.linkedin.com/in/lsoares2008/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:l.soares.2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
 
 
 
