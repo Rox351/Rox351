@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    My name is Leoanrdo, <strong>I'm a Front-end developer</strong>
+    My name is Leonardo, <strong>I'm a Front-end developer</strong>
   </em>
 </p>
  
@@ -45,7 +45,7 @@
 
 ## 📈 Statistics
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rox351&show_icons=true&theme=true&theme=merko"></img>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rox351&show_icons=true&theme=merko&include_all_commits=true&count_private=true"></img>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rox351&layout=compact&langs_count=7&theme=merko"></img>
 
