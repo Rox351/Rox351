@@ -29,7 +29,7 @@
 </div>
 
  </div>
-
+<hr>
 <br>
 
 ## ⚡ Tecnologias
@@ -49,7 +49,7 @@
 
  <a/>
 
-  
+  <hr>
 <br>
 
 ## 📈 Statisticas
@@ -64,7 +64,7 @@
 
 
 
-
+<hr>
 <div> 
 
  
