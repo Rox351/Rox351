@@ -3,6 +3,7 @@
 <h1 align='center'> Bem Vindo ao Meu Perfil. </h1>
 
 <div align="center">
+  <hr>
 ### 👋 Sobre mim:
 
 <p>
