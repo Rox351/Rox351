@@ -14,7 +14,7 @@
 - 📚 Estudante Front End Development em <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
 
 <br>
-
+<hr>
 </div>
 <div align="center">
  
