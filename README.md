@@ -12,7 +12,7 @@
   </em>
 </p>
 
-- 📚 Estudante Front End Development em <a href="https://www.cursoemvideo.com/"> Curso Em Video </a>
+- 📚 Estudante Front End Development em <a href="https://cursos.alura.com.br"> Alura </a>
 
 <br>
 <hr>
