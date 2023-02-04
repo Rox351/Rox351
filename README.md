@@ -5,26 +5,39 @@
    <img  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=437&lines=Ola%2C+seja+bem+vindos(as)!;Sou+Leonardo+Soares.;Tenho+25+anos.;" alt="Typing SVG" />
 </a>
 </div>
+<p align="center">👩🏻‍💻 Estudando e focado em Front End;</a></p>
 <p align="center">📚 Estudante Front End Development em <a href="https://cursos.alura.com.br">Alura</a></p>
+
 
 
 
 <hr>
 </div>
+<div align="center"  style="font-size: 36px">
+📈 Statisticas</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rox351&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Soares github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rox351&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
+</div>
+
 <div align="center">
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=760&height=25&lines=Sinta-se+a+vontade+para+entrar+em+contato+atrav%C3%A9s+dos+links+abaixo%3A" alt="Typing SVG" /></a>
   <div align="center">
 <div style="display: inline_block">
       
-   <div> 
-    <a href = "https://wa.me/5551985208802"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_blank"></a> 
-     <a href="https://www.linkedin.com/in/lsoares2008/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:l.soares.2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div align="center"> 
+  <a href="https://www.linkedin.com/in/lsoares2008/" target="_blank"><img src="https://user-images.githubusercontent.com/122987929/213333787-9a57e6be-58d8-482c-92bd-5677031d02ae.jpg" width="40px"></a>
+  <a href = "mailto:l.soares.2008@gmail.com"><img src="https://user-images.githubusercontent.com/122987929/213333721-63294d35-6371-49d8-b335-096f9c2754d8.JPG" width="40px"></a>
+  <a href="https://wa.me/5551985208802"><img src="https://user-images.githubusercontent.com/122987929/213334174-ff06ef33-8141-4ebe-b41d-919d89231659.JPG" width="40px"></a> 
 </div>
+ 
 
- </div>
-<hr>
+
+
+<div align="center">
+  <hr>
 
 ## ⚡ Tecnologias
 
@@ -43,22 +56,12 @@
 
  <a/>
 
-  <hr>
+
 <br>
 
-## 📈 Statisticas
-
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rox351&show_icons=true&theme=merko&include_all_commits=true&count_private=true"></img>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rox351&layout=compact&langs_count=7&theme=merko"></img>
 
 
 
-
-
-
-
-<hr>
 <div> 
 
  
@@ -66,9 +69,6 @@
  
 </div>
 
-
-<div align="center">
-  
   
   
 
