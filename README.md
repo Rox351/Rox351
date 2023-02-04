@@ -2,7 +2,7 @@
 
 <div align="center">
 <a  href="https://git.io/typing-svg">
-   <img  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=437&lines=Ola%2C+seja+bem+vindos(as)!;Sou+Leonardo+Soares.;Tenho+25+anos.;Estou+estudando+para+ser+Dev." alt="Typing SVG" />
+   <img  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=437&lines=Ola%2C+seja+bem+vindos(as)!;Sou+Leonardo+Soares.;Tenho+25+anos.;" alt="Typing SVG" />
 </a>
 </div>
 <p align="center">📚 Estudante Front End Development em <a href="https://cursos.alura.com.br">Alura</a></p>
