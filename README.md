@@ -1,20 +1,14 @@
 
 
-<h1 align='center'> Bem Vindo ao Meu Perfil. </h1>
-
 <div align="center">
-  <hr>
-### 👋 Sobre mim:
+<a  href="https://git.io/typing-svg">
+   <img  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=437&lines=Ola%2C+seja+bem+vindos(as)!;Sou+Leonardo+Soares.;Tenho+25+anos.;Estou+estudando+para+ser+Dev." alt="Typing SVG" />
+</a>
+</div>
+<p align="center">📚 Estudante Front End Development em <a href="https://cursos.alura.com.br">Alura</a></p>
 
-<p>
-  <em>
-    Meu nome é Leonardo, <strong>Eu sou um Desenvolvedor Front-end</strong>
-  </em>
-</p>
 
-- 📚 Estudante Front End Development em <a href="https://cursos.alura.com.br"> Alura </a>
 
-<br>
 <hr>
 </div>
 <div align="center">
@@ -31,7 +25,6 @@
 
  </div>
 <hr>
-<br>
 
 ## ⚡ Tecnologias
 
