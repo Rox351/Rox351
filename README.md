@@ -13,8 +13,12 @@
 
 <hr>
 </div>
-<div align="center"  style="font-size: 36px">
-📈 Statisticas</div>
+<div align="center"  ">
+  
+
+## 📈 Statisticas                     
+                      
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rox351&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Soares github stats"/> 
