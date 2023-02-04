@@ -13,9 +13,9 @@
 </div>
 <div align="center">
  
- ### Sinta-se a vontade para entrar em contato:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&pause=1000&color=1DF7A8&background=1451FF00&center=true&vCenter=true&width=760&height=100&lines=Sinta-se+a+vontade+para+entrar+em+contato+atrav%C3%A9s+dos+links+abaixo%3A" alt="Typing SVG" /></a>
   <div align="center">
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
       
    <div> 
     <a href = "https://wa.me/5551985208802"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_blank"></a> 
